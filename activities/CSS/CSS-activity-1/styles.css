@@ -1,13 +1,13 @@
 .odd {
     background-color: pink;
-    font: verdana;
     font-family: Verdana, "dejavu sans", sans-serif;
-    fallback: sans-serif;
 }
+
 #number2 {
     color: blue;
     font-size: 36px;
 }
+
 #number3 {
     font-size:24px;
 }
