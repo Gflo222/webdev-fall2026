@@ -1,0 +1,29 @@
+.odd {
+    background-color: pink;
+    font: verdana;
+    font-family: Verdana, "dejavu sans", sans-serif;
+    fallback: sans-serif;
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+#number3 {
+    font-size:24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.new{
+    border: 5px dotted black;
+}
+
+#number {
+    font-size: 24px;
+    font-family: "amatic sc";
+    border-color:coral;
+    border-width: 3px;
+}
