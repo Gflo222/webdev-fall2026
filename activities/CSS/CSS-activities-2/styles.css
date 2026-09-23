@@ -1,0 +1,21 @@
+.button, .button_2, .button_3 {
+    font-size: 28px;
+    font-family:Helvetica, 'Times New Roman', serif
+
+}
+
+#black_white {
+    background-color:black;
+    color:white;
+}
+
+#yellow {
+    background-color:yellow;
+}
+
+#holo {
+    background-color:white;
+}
+#hidden {
+    color:white;
+}
