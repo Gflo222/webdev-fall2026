@@ -1,0 +1,52 @@
+h3 {
+    font-weight:bold;
+}
+
+.highlight {
+    font-weight:bold;
+}
+
+h2.highlight {
+    background-color: aqua;
+}
+
+.card p {
+    font-size: 36px;
+}
+
+.card>p {
+    border-style:dotted;
+}
+
+.places .highlight {
+    color: rgb(255, 0, 43);
+}
+
+h2 + p {
+    color:deeppink;
+}
+
+h2~p{
+    font-style:italic;
+}
+
+.card > ul {
+    border-style:dashed;
+}
+
+h2, h3 {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+
+
+
+
+
+
+
+
