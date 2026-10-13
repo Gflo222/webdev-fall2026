@@ -15,7 +15,7 @@ h1 {
     padding: 5px;
 }
 
-.elegant {
+.elegant, .elegant ~ i {
     font-family: "Raleway", "playfair_display", "italiana", impact, serif;
 }
 
