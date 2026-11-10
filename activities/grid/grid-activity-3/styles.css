@@ -59,7 +59,7 @@
     background-color: #C50208;
     grid-column: 1 / 2;
     grid-row: 2 / 4;
-    gap: 50px;
+    gap: 25px;
 }
 
 .sidebar .photo {

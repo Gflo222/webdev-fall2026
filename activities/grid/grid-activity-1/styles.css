@@ -28,11 +28,11 @@ html {
 
 .header {
   display:grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: auto auto;
   align-items: center;
-  justify-items: end;
-  align-content: center;
-  justify-content: center;
+  justify-items: auto;
+  align-content: auto;
+  justify-content: auto;
   background-color: #006157;
   grid-row: 1 / 2;
   grid-column: 1 / 4;
