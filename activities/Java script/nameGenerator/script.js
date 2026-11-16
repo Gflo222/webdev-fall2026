@@ -10,14 +10,24 @@ function generateName() {
     
     if (month === "february" || month ==="march" || month ==="april") {
         start = "Gri";
+        result.style.color = "blue";
+        result.style.backgroundColor = "yellow";
     } else if (month === "may" || month ==="june" || month ==="july") {
         start = "Te";
+        result.style.color = "red";
+        result.style.backgroundColor = "blue";
     } else if (month === "august" || month ==="september" || month ==="october") {
         start = "Ol";
+        result.style.color = "green";
+        result.style.backgroundColor = "red";
     } else if (month === "november" || month ==="december" || month ==="january") {
         start = "Th";
+        result.style.color = "yellow";
+        result.style.backgroundColor = "green";
     } else {
         start = "poo";
+        result.style.color = "brown";
+        result.style.backgroundColor = "black";
     }
 
     if(age < 10){
